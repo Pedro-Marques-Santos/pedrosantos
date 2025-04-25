@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://Pedro-Marques-Santos.github.io/sitemap.xml
