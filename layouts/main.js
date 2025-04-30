@@ -77,7 +77,7 @@ export default function MainLayout({ children }) {
                     className="block px-1 py-1 text-sm hover:bg-gray-100 dark:hover:bg-gray-800"
                     onClick={() => setIsOpen(false)}
                   >
-                    {process.env.NEXT_PUBLIC_ABREVIATEDUSERNAME}
+                    pedrosantos
                   </a>
                 </div>
               )}

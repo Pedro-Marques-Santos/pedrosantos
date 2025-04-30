@@ -269,7 +269,7 @@ export default function Home({ allPosts, allProjects, post }) {
               "Quality is not an act, it is a habit." - Aristotle. True progress is built on daily effort and thoughtful contributions. You can{" "}
               <Link 
               className="border-b"
-              href="https:/github.com/Pedro-Marques-Santos/"
+              href="https://github.com/Pedro-Marques-Santos/"
               target="_blank">
                 check my GitHub here
               </Link>
